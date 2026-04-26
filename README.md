@@ -4,6 +4,10 @@ Sub-IO is a local-first subtitle transcription and translation tool.
 
 It helps you upload video or audio files, generate subtitles, translate subtitles, review the result, and export subtitle files.
 
+## Screenshot
+
+![Sub-IO home screen](docs/screenshot-home.png)
+
 ## Main idea
 
 Sub-IO is designed to run locally on your own machine.
