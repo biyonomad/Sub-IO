@@ -1,0 +1,50 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Keep examples
+!.env.example
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+.vite/
+
+# Logs
+*.log
+logs/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# User uploads and generated files
+storage/uploads/
+**/storage/uploads/
+uploads/
+**/uploads/
+exports/
+**/exports/
+tmp/
+temp/
+
+# Secrets
+*.pem
+*.key
+*.crt
+credentials.json
+token.json

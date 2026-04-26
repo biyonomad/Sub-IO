@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local storage and generated files
+storage/
+uploads/
+outputs/
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.srt
+*.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+!apt.txt
+
+!requirements.txt

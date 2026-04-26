@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.4
+python-multipart>=0.0.9
+openai-whisper>=20240930
+torch>=2.2
+openai>=1.40
